@@ -1,0 +1,1 @@
+INSERT INTO BOOK (title, isbn, author, genre) VALUES ('Wheres Wally?','9780744555363','Martin Handford', 'Childrens literature')
